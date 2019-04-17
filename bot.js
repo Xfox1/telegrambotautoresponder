@@ -90,21 +90,3 @@ function controlMessage(message){
 	
 	return found;
 }
-
-
-function quote(){
-	return "Test";
-}
-
-function ale(){
-	let phrases = [
-		"Stronzo",
-		"Suca",
-		""
-	];
-	
-	let rnd = Math.floor((Math.random() * (phrases.length-1)) + 0);
-	let selectedPhrase = phrases[rnd];
-	
-	return selectedPhrase;
-}
