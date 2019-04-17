@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xfox1/telegrambotfautoresponder.git"
+    "url": "git+https://github.com/Xfox1/telegrambotautoresponder.git"
   },
   "keywords": [
     "telegram",
@@ -20,9 +20,9 @@
   "author": "Antonio Mignano",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Xfox1/telegrambotfautoresponder/issues"
+    "url": "https://github.com/Xfox1/telegrambotautoresponder/issues"
   },
-  "homepage": "https://github.com/Xfox1/telegrambotfautoresponder#readme",
+  "homepage": "https://github.com/Xfox1/telegrambotautoresponder#readme",
   "dependencies": {
     "dotenv": "^7.0.0",
     "node-telegram-bot-api": "^0.30.0"
