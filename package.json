@@ -1,0 +1,25 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "A simple little framework to create an autoresponder bot for telegram.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xfox1/telegrambotfautoresponder.git"
+  },
+  "keywords": [
+    "telegram",
+    "framework",
+    "bot",
+    "autoresponder"
+  ],
+  "author": "Antonio Mignano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xfox1/telegrambotfautoresponder/issues"
+  },
+  "homepage": "https://github.com/Xfox1/telegrambotfautoresponder#readme"
+}
