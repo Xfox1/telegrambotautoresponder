@@ -1,0 +1,63 @@
+[
+    {
+        "triggers": [
+            "night",
+            "good night"
+        ],
+        "replies": [
+            {
+                "reply": "To you...",
+                "type": "text"
+            },
+            {
+                "reply": "It's time",
+                "type": "text"
+            },
+            {
+                "reply": "Where are you going? The night is still young!",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "good morning",
+            "morning"
+        ],
+        "replies": [
+            {
+                "reply": "./media/audio/sun_in_the_sky.mp3",
+                "type": "audio"
+            },
+            {
+                "reply": "./media/audio/new_dawn_new_day.mp3",
+                "type": "audio"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "haha",
+            "hahaha",
+            "ahah",
+            "ahahaha"
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/kid_laughing_meme.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "party"
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/party_girl.gif",
+                "type": "image"
+            }
+        ]
+    }
+]

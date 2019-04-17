@@ -1,3 +1,7 @@
+#Env & debug
+.env
+debug.log
+
 # Logs
 logs
 *.log
