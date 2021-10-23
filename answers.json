@@ -59,5 +59,32 @@
                 "type": "image"
             }
         ]
+    },
+    {
+        "triggers": [
+            "hello",
+            "hi"
+        ],
+        "replies": [
+            {
+                "reply": "Hi, how's it going?",
+                "type": "response"
+            },
+            {
+                "reply": "Hey! What's up?",
+                "type": "response"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "link"
+        ],
+        "replies": [
+            {
+                "reply": "There you go: <a href=\"https://www.mignanoa.com/\">inline URL</a>",
+                "type": "text"
+            }
+        ]
     }
 ]
